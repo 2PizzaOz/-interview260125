@@ -1,0 +1,26 @@
+.item {
+    text-align: center;
+    margin-top: 100px;
+}
+.itemspan {
+    margin-top: 10px;
+   
+    
+}
+
+.value {
+    font-size: 50px;
+    font-weight: 100
+}
+
+.incr{
+    background-color: green;
+    color: white;
+    margin-right: 2px;
+}
+
+.decr{
+    background-color: red;
+    color: white;
+    margin-left: 2px;
+}
